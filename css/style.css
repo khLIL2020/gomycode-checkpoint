@@ -1,7 +1,43 @@
-body {
-    background-color: blue;
+
+.title{font-family: roboto;
+	color:blue
+	
   }
-  
- 
-  
+  #blue {
+    border: 5px dashed blue;
+}
+
+h1{
+	display: inline;
+	text-align: middle;
+font-weight: bold;
+background-color:black;
+margin-left: auto;
+  margin-right: auto;
+  width: 100;
+color: red;
+font-family: roboto;
+padding: .5em;}
+body
+{background-color:blueviolet ;}
+#recherche {
+	color: red;
+	background-color:green;
+	text-align: middle;
+	margin-left: auto;
+  margin-right: auto;
+  width: 100;
+	
+}
+#image {
+	text-align: middle;
+	margin-left: auto;
+  margin-right: auto;
+  width: 100;
+}
+
+  div{
+    height: 100px;
+    width: 110%;
+}
   
